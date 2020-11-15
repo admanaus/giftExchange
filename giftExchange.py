@@ -3,21 +3,21 @@
 import random
 
 # Track couples with letters "A" etc.
-# names = [["Martin", "A"],
-#          ["Julie", "A"],
-#          ["Patrick", "B"],
-#          ["Tori", "C"],
-#          ["Adrien", "C"],
-#          ["Akayla", "D"],
-#          ["Tiffany", "D"],
-#          ["Zack", "E"],
-#          ["Sanny", "E"]]
+names = [["Martin", "A"],
+         ["Julie", "A"],
+         ["Patrick", "B"],
+         ["Tori", "C"],
+         ["Adrien", "C"],
+         ["Akayla", "D"],
+         ["Tiffany", "D"],
+         ["Zack", "E"],
+         ["Brooke", "E"]]
 
-names = [["Dad", "A"],
-         ["Mom", "A"],
-         ["Adrien", "B"],
-         ["Tori", "B"],
-         ["Mark", "D"]]
+# names = [["Dad", "A"],
+#          ["Mom", "A"],
+#          ["Adrien", "B"],
+#          ["Tori", "B"],
+#          ["Mark", "D"]]
 
 
 # Track original array position for easy 'buy for each other' comparison
